@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandomRandom</string>
+    <string name="firebase_realtime_database_app_in_kotlin">firebase_realtime_database_app_in_kotlin</string>
+    <string name="insert_data">insert_data</string>
+    <string name="fetch_data">fetch_data</string>
+    <string name="enter_name">enter_name</string>
+    <string name="enter_age">enter_age</string>
+    <string name="enter_salary">enter_salary</string>
+    <string name="save_data">save_data</string>
+</resources>
